@@ -1,0 +1,12 @@
+cmake
+dilib
+h5py
+face-recognition
+opencv-python
+scikit-image
+tf-keras
+tensorflow
+numpy
+deepface
+fastapi[standard]
+uvicorn
